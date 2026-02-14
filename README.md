@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi👋, I'm Narendra Kondaveeti</h1>
 
-<!--
-**NarendraKondaveeti/NarendraKondaveeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Senior QA Engineer | Functional & Domain-Focused Tester | Automation Learner 🚀
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+🔍 Deep interest in understanding domain knowledge and complete end-to-end application workflows.<br>
+🧠 Strong believer in functional thinking — validating systems through business logic, not just test cases.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+
+💼 7+ Years of experience in Manual Testing & API Testing  
+🔗 Strong hands-on experience in REST API Testing using Postman & Newman  
+📱 1 Year of Mobile Functional Testing experience  
+⚙️ Experience in Functional, Integration, Regression & Exploratory Testing  
+🤖 Exploring Automation using Python, Playwright & Selenium  
+☁️ Microsoft Certified: Azure Fundamentals (AZ-900) & AI Fundamentals (AI-900)
+
+---
+
+## 🛠️ Technical Skills
+
+**Testing:**  
+Manual Testing | API Testing | Mobile Testing | Functional | Regression | Integration | Exploratory  
+
+**Automation & Programming:**  
+Python | Playwright | Selenium  
+
+**Tools & Platforms:**  
+Postman | Newman | Git | GitHub | Jenkins (Basic) | JMeter (Basic) | Azure DevOps | UFT & ALM 
+
+---
+
+## 📈 Currently Focused On
+
+- Improving Automation & CI/CD knowledge  
+- Strengthening domain-driven testing approach  
+- Understanding complete software lifecycle from requirement to production  
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: [LinkedIn](https://linkedin.com/in/your-id) 
+Email: kondaveeti.nk@gmail.com
+
+---
+
+<p align="center">
+"Quality is not just about testing — it's about deeply understanding the system."
+</p>
