@@ -31,8 +31,57 @@ Manual Testing | API Testing | Mobile Testing | Functional | Regression | Integr
 Python | Playwright | Selenium  
 
 **Tools & Platforms:**  
-Postman | Newman | Git | GitHub | Jenkins (Basic) | JMeter (Basic) | Azure DevOps | UFT & ALM 
-
+<table cellpadding="10">
+  <tr>
+    <td align="center"><b>Postman</b></td>
+    <td align="center"><b>Git</b></td>
+    <td align="center"><b>GitHub</b></td>
+    <td align="center"><b>Selenium</b></td>
+    <td align="center"><b>Playwright</b></td>
+    <td align="center"><b>Python</b></td>
+    <td align="center"><b>Jenkins</b></td>
+    <td align="center"><b>JMeter</b></td>
+    <td align="center"><b>Azure DevOps</b></td>
+    <td align="center"><b>UFT</b></td>
+    <td align="center"><b>ALM</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="45"/>
+    </td>
+    <td align="center">
+      <img src="https://playwright.dev/img/playwright-logo.svg" width="45"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="45"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="45"/>
+    </td>
+    <td align="center">
+      <img src="[UFT](https://www.opentext.com/)" width="45"/>
+    </td>
+    <td align="center">
+      <img src="[ALM](https://www.opentext.com/)" width="45"/>
+    </td>
+  </tr>
+</table>
+ 
 ---
 
 ## 📈 Currently Focused On
