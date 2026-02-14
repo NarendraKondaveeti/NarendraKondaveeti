@@ -45,7 +45,7 @@ Postman | Newman | Git | GitHub | Jenkins (Basic) | JMeter (Basic) | Azure DevOp
 
 ## 📫 Connect With Me
 
-LinkedIn: [LinkedIn]([https://linkedin.com/in/your-id](https://www.linkedin.com/in/narendra-kondaveeti-79487b53/)) 
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/narendra-kondaveeti-79487b53/) 
 Email: kondaveeti.nk@gmail.com
 
 ---
