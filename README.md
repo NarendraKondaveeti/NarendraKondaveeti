@@ -15,7 +15,7 @@ Senior QA Engineer | Functional & Domain-Focused Tester | Automation Learner �
 
 💼 7+ Years of experience in Manual Testing & API Testing  
 🔗 Strong hands-on experience in REST API Testing using Postman & Newman  
-📱 1 Year of Mobile Functional Testing experience  
+📱 2 Year of Mobile Functional Testing experience  
 ⚙️ Experience in Functional, Integration, Regression & Exploratory Testing  
 🤖 Exploring Automation using Python, Playwright & Selenium  
 ☁️ Microsoft Certified: Azure Fundamentals (AZ-900) & AI Fundamentals (AI-900)
