@@ -13,7 +13,7 @@ Senior QA Engineer | Functional & Domain-Focused Tester | Automation Learner �
 
 ## 🌟 About Me
 
-💼 7+ Years of experience in Manual Testing & API Testing  
+💼 7+ Years of experience in QA Engineer | Manual Testing | API Testing  
 🔗 Strong hands-on experience in REST API Testing using Postman & Newman  
 📱 2 Year of Mobile Functional Testing experience  
 ⚙️ Experience in Functional, Integration, Regression & Exploratory Testing  
