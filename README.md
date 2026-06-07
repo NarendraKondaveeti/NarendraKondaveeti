@@ -28,7 +28,7 @@ Senior QA Engineer | Functional & Domain-Focused Tester | Automation Learner ðŸš
 Manual Testing | API Testing | Mobile Testing | Functional | Regression | Integration | Exploratory  
 
 **Automation & Programming:**  
-Python | Playwright | Selenium  
+Python | Playwright | Pytest |Selenium  
 
 **Tools & Platforms:**  
 <table cellpadding="10">
@@ -115,14 +115,14 @@ Python | Playwright | Selenium
     <td align="center">
       <a href="https://www.microfocus.com/documentation/silk-central/200/en/silkcentral-help-en/GUID-531809BA-688F-41D5-BDB2-FCE786A284CE.html" target="_blank">
       <img 
-        src="https://share.google/WqJsD7w76tieohPye" width="45"
+        src="https://upload.wikimedia.org/wikipedia/commons/0/05/HP_logo_2025.svg" width="45"
         alt="UFT"
       </a>
     </td>
     <td align="center">
       <a href="https://www.opentext.com/products/application-quality-management" target="_blank">
       <img 
-        src="https://share.google/xyZacGsEBBLvaAwRR" width="45"
+        src="https://upload.wikimedia.org/wikipedia/commons/0/05/HP_logo_2025.svg" width="45"
         alt="ALM"
       </a>
     </td>
@@ -147,7 +147,7 @@ Python | Playwright | Selenium
          width="50"
          alt="LinkedIn"/>
   </a>
-
+  <td align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=123narendra.k@gmail.com"
      target="_blank"
      rel="noopener noreferrer">
@@ -155,6 +155,7 @@ Python | Playwright | Selenium
          width="50"
          alt="Gmail"/>
   </a>
+  </td>
 
 ---
 
