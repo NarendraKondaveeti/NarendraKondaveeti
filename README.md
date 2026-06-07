@@ -91,7 +91,11 @@ Python | Playwright | Selenium
       </a>
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/>
+      <a href="https://www.jenkins.io/" target="_blank">
+      <img 
+        src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"
+        alt="Jenkins"
+      </a>
     </td>
     <td align="center">
       <a href="https://apache.org/" target="_blank">
@@ -102,13 +106,25 @@ Python | Playwright | Selenium
       </a>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="45"/>
+      <a href="https://azure.microsoft.com/" target="_blank">
+      <img 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="45"
+        alt="Azure DevOps"
+      </a>
     </td>
     <td align="center">
-      <img src="[UFT](https://www.opentext.com/)" width="45"/>
+      <a href="https://www.microfocus.com/documentation/silk-central/200/en/silkcentral-help-en/GUID-531809BA-688F-41D5-BDB2-FCE786A284CE.html" target="_blank">
+      <img 
+        src="https://share.google/WqJsD7w76tieohPye" width="45"
+        alt="UFT"
+      </a>
     </td>
     <td align="center">
-      <img src="[ALM](https://www.opentext.com/)" width="45"/>
+      <a href="https://www.opentext.com/products/application-quality-management" target="_blank">
+      <img 
+        src="https://share.google/xyZacGsEBBLvaAwRR" width="45"
+        alt="ALM"
+      </a>
     </td>
   </tr>
 </table>
