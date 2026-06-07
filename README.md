@@ -99,8 +99,6 @@ Python | Playwright | Selenium
 ---
 
 ## 📫 Connect With Me
-## 📫 Connect With Me
-
 <p align="center">
 
   <!-- LinkedIn -->
@@ -125,11 +123,6 @@ Python | Playwright | Selenium
 
 </p>
 
-<p align="center">
-  📧 <a href="mailto:123narendra.k@gmail.com">
-  123narendra.k@gmail.com
-  </a>
-</p>
 ---
 
 <p align="center">
