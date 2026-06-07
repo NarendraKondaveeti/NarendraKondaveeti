@@ -115,7 +115,7 @@ Python | Playwright | Pytest |Selenium
     <td align="center">
       <a href="https://www.microfocus.com/documentation/silk-central/200/en/silkcentral-help-en/GUID-531809BA-688F-41D5-BDB2-FCE786A284CE.html" target="_blank">
       <img 
-        src="https://upload.wikimedia.org/wikipedia/commons/0/05/HP_logo_2025.svg" width="45"
+        src="https://companieslogo.com/img/orig/OTEX-7e89be53.svg" width="45"
         alt="UFT"
       </a>
     </td>
