@@ -68,6 +68,13 @@ Python | Playwright | Selenium
         alt="Playwright"
       </a>
     </td>
+        <td align="center">
+      <a href="https://github.com/" target="_blank">
+      <img 
+        src=""https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"
+        alt="GitHub"
+      </a>
+    </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/>
     </td>
