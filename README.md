@@ -99,12 +99,37 @@ Python | Playwright | Selenium
 ---
 
 ## 📫 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/narendrakondaveeti/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
-  </a>
-Email: 123narendra.k@gmail.com
+## 📫 Connect With Me
 
+<p align="center">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/venkat"
+     target="_blank"
+     rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="50"
+         alt="LinkedIn"/>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Gmail -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=123narendra.k@gmail.com"
+     target="_blank"
+     rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+         width="50"
+         alt="Gmail"/>
+  </a>
+
+</p>
+
+<p align="center">
+  📧 <a href="mailto:123narendra.k@gmail.com">
+  123narendra.k@gmail.com
+  </a>
+</p>
 ---
 
 <p align="center">
