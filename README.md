@@ -57,8 +57,15 @@ Python | Playwright | Selenium
     <td align="center">
       <a href="https://git-scm.com/" target="_blank">
       <img 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"
         alt="Git"
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/" target="_blank">
+      <img 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"
+        alt="GitHub"
       </a>
     </td>
     <td align="center">
@@ -66,13 +73,6 @@ Python | Playwright | Selenium
       <img 
         src="https://playwright.dev/img/playwright-logo.svg" width="45"
         alt="Playwright"
-      </a>
-    </td>
-        <td align="center">
-      <a href="https://github.com/" target="_blank">
-      <img 
-        src=""https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"
-        alt="GitHub"
       </a>
     </td>
     <td align="center">
