@@ -103,7 +103,6 @@ Python | Playwright | Selenium
   <a href="https://www.linkedin.com/in/narendrakondaveeti/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
   </a>
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/narendrakondaveeti/) 
 Email: 123narendra.k@gmail.com
 
 ---
