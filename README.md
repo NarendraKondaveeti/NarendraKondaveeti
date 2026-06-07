@@ -99,15 +99,14 @@ Python | Playwright | Selenium
 ---
 
 ## 📫 Connect With Me
-   <td align="center">
-    <a href="https://www.linkedin.com/in/venkat"
+   <a href="https://www.linkedin.com/in/venkat"
      target="_blank"
      rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          width="50"
          alt="LinkedIn"/>
   </a>
-    <td align="center">
+
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=123narendra.k@gmail.com"
      target="_blank"
      rel="noopener noreferrer">
@@ -115,10 +114,9 @@ Python | Playwright | Selenium
          width="50"
          alt="Gmail"/>
   </a>
-    </td>
-</tr>
 
 ---
+
 
 <p align="center">
 "Quality is not just about testing — it's about deeply understanding the system."
