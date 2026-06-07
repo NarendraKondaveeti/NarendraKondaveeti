@@ -113,7 +113,7 @@ Python | Playwright | Selenium
          width="50"
          alt="LinkedIn"/>
   </a>
-
+    <td align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=123narendra.k@gmail.com"
      target="_blank"
      rel="noopener noreferrer">
@@ -121,7 +121,7 @@ Python | Playwright | Selenium
          width="50"
          alt="Gmail"/>
   </a>
-</p>
+    </td>
 </tr>
 ---
 
