@@ -46,7 +46,47 @@ Python | Playwright | Selenium
     <td align="center"><b>ALM</b></td>
   </tr>
   <tr>
-<td align="center"> <a href="https://www.postman.com/"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" alt="Postman"/> </a> </td> <td align="center"> <a href="https://git-scm.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" alt="Git"/> </a> </td> <td align="center"> <a href="https://github.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" alt="GitHub"/> </a> </td> <td align="center"> <a href="https://www.selenium.dev/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="45" alt="Selenium"/> </a> </td> <td align="center"> <a href="https://playwright.dev/"> <img src="https://playwright.dev/img/playwright-logo.svg" width="45" alt="Playwright"/> </a> </td> <td align="center"> <a href="https://www.python.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python"/> </a> </td> <td align="center"> <a href="https://www.jenkins.io/"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45" alt="Jenkins"/> </a> </td> <td align="center"> <a href="https://jmeter.apache.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="45" alt="JMeter"/> </a> </td> <td align="center"> <a href="https://azure.microsoft.com/en-us/products/devops"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="45" alt="Azure DevOps"/> </a> </td> <td align="center"> <a href="https://www.opentext.com/products/uft-one"> <img src="https://cdn.simpleicons.org/opentext" width="45" alt="UFT One"/> </a> </td> <td align="center"> <a href="https://www.opentext.com/products/alm-quality-center"> <img src="https://cdn.simpleicons.org/opentext" width="45" alt="ALM QC"/> </a> </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="45"/>
+    </td>
+    <td align="center">
+      <img src="https://playwright.dev/img/playwright-logo.svg" width="45"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/>
+    </td>
+<td align="center">
+  <a href="https://apache.org/" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"
+      width="45"
+      alt="Apache"
+    />
+  </a>
+</td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="45"/>
+    </td>
+    <td align="center">
+      <img src="[UFT](https://www.opentext.com/)" width="45"/>
+    </td>
+    <td align="center">
+      <img src="[ALM](https://www.opentext.com/)" width="45"/>
+    </td>
+  </tr>
+</table>
  
 ---
 
@@ -59,9 +99,12 @@ Python | Playwright | Selenium
 ---
 
 ## 📫 Connect With Me
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/narendrakondaveeti/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+  </a>
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/narendrakondaveeti/) 
-Email: kondaveeti.nk@gmail.com
+Email: 123narendra.k@gmail.com
 
 ---
 
