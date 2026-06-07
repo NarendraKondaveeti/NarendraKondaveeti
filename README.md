@@ -140,16 +140,15 @@ Python | Playwright | Pytest |Selenium
 ---
 
 ## 📫 Connect With Me
-## 📫 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/narendrakondaveeti/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          width="50" alt="LinkedIn"/>
   </a>
-
+  </p>
   &nbsp;&nbsp;&nbsp;
-
+<p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kondaveeti.nk@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
          width="50" alt="Gmail"/>
