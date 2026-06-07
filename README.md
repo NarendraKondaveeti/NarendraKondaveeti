@@ -69,10 +69,25 @@ Python | Playwright | Selenium
       </a>
     </td>
     <td align="center">
+      <a href="https://www.selenium.dev/" target="_blank">
+      <img 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"
+        width="45"
+        alt="Selenium"
+      </a>
+    </td>
+    <td align="center">
       <a href="https://playwright.dev/python/" target="_blank">
       <img 
         src="https://playwright.dev/img/playwright-logo.svg" width="45"
         alt="Playwright"
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.python.org/" target="_blank">
+      <img 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"
+        alt="Python"
       </a>
     </td>
     <td align="center">
