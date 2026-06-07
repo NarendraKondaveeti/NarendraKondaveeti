@@ -117,6 +117,7 @@ Python | Playwright | Selenium
   </a>
     </td>
 </tr>
+
 ---
 
 <p align="center">
