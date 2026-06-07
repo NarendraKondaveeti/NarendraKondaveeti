@@ -67,9 +67,15 @@ Python | Playwright | Selenium
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/>
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="45"/>
-    </td>
+<td align="center">
+  <a href="https://apache.org/" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"
+      width="45"
+      alt="Apache"
+    />
+  </a>
+</td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="45"/>
     </td>
@@ -94,7 +100,7 @@ Python | Playwright | Selenium
 
 ## 📫 Connect With Me
 
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/narendra-kondaveeti-79487b53/) 
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/narendrakondaveeti/) 
 Email: kondaveeti.nk@gmail.com
 
 ---
