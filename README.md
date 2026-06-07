@@ -99,10 +99,14 @@ Python | Playwright | Selenium
 ---
 
 ## 📫 Connect With Me
-<p align="center">
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/venkat"
+<table cellpadding="10">
+  <tr>
+    <td align="center"><b>LinkedIn</b></td>
+    <td align="center"><b>Gmail</b></td>
+  </tr>
+<tr>
+    <td align="center">
+    <a href="https://www.linkedin.com/in/venkat"
      target="_blank"
      rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
@@ -110,7 +114,6 @@ Python | Playwright | Selenium
          alt="LinkedIn"/>
   </a>
 
-  <!-- Gmail -->
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=123narendra.k@gmail.com"
      target="_blank"
      rel="noopener noreferrer">
@@ -119,7 +122,7 @@ Python | Playwright | Selenium
          alt="Gmail"/>
   </a>
 </p>
-
+</tr>
 ---
 
 <p align="center">
