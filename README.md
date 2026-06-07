@@ -67,15 +67,14 @@ Python | Playwright | Selenium
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/>
     </td>
-<td align="center">
-  <a href="https://apache.org/" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"
-      width="45"
-      alt="Apache"
-    />
-  </a>
-</td>
+    <td align="center">
+      <a href="https://apache.org/" target="_blank">
+      <img 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"
+        width="45"
+        alt="Apache"
+      </a>
+    </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="45"/>
     </td>
