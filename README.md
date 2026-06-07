@@ -99,13 +99,7 @@ Python | Playwright | Selenium
 ---
 
 ## 📫 Connect With Me
-<table cellpadding="10">
-  <tr>
-    <td align="center"><b>LinkedIn</b></td>
-    <td align="center"><b>Gmail</b></td>
-  </tr>
-<tr>
-    <td align="center">
+   <td align="center">
     <a href="https://www.linkedin.com/in/venkat"
      target="_blank"
      rel="noopener noreferrer">
