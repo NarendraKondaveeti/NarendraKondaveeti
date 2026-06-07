@@ -47,22 +47,26 @@ Python | Playwright | Selenium
   </tr>
   <tr>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+      <a href="https://www.postman.com/" target="_blank">
+      <img 
+        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+        width="45"
+        alt="Postman"
+      </a>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+      <a href="https://git-scm.com/" target="_blank">
+      <img 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"
+        alt="Git"
+      </a>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="45"/>
-    </td>
-    <td align="center">
-      <img src="https://playwright.dev/img/playwright-logo.svg" width="45"/>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+      <a href="https://playwright.dev/python/" target="_blank">
+      <img 
+        src="https://playwright.dev/img/playwright-logo.svg" width="45"
+        alt="Playwright"
+      </a>
     </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/>
