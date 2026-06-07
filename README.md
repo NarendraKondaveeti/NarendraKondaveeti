@@ -154,5 +154,5 @@ Python | Playwright | Pytest |Selenium
 ---
 
 <p align="center">
-"Quality is not just about testing — it's about deeply understanding the system."
+"Quality Assurance is the bridge between customer expectations and product excellence"   <i> Narendra K. </i>
 </p>
