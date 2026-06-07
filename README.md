@@ -145,6 +145,7 @@ Python | Playwright | Pytest |Selenium
   <a href="https://www.linkedin.com/in/narendrakondaveeti/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" />
   </a>
+  
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kondaveeti.nk@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" />
   </a>
